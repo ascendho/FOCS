@@ -2,7 +2,11 @@
 typora-copy-images-to: ./img
 ---
 
-**New**✨：笔记发布在<a href="Notes/notes.md">这里</a>
+**New**✨：笔记发布在<a href="Notes/Notes.md">这里</a>
+
+------
+
+
 
 ## 如何使用
 
