@@ -2,6 +2,8 @@
 typora-copy-images-to: ./img
 ---
 
+**New**✨：笔记发布在<a href="Notes/notes.md">这里</a>
+
 ## 如何使用
 
 - <a href="Quizzes/">Quizzes</a>文件夹存放了每章后的**交互式测验题**及答案
