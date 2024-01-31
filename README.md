@@ -27,5 +27,10 @@ typora-copy-images-to: ./img
 |                计算机科学导论                | ![image-20231227213319730](img/image-20231227213319730.png)  |
 | Foundations of Computer Science, 4th Edition | ![e146ff701029cef9378328f15aa28958e6ee8e1488fe082b057229d7e14685ec](img/e146ff701029cef9378328f15aa28958e6ee8e1488fe082b057229d7e14685ec.jpg) |
 
+------
 
+## License
+
+- 仅<a href="Notes/Notes.md">笔记</a>(不包含其中摘自教材的图片)采取`MIT`协议
+- 其余材料按**原作品**版权信息
 
