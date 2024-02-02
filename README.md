@@ -2,8 +2,6 @@
 typora-copy-images-to: ./img
 ---
 
-**New**✨：笔记发布在<a href="Notes/Notes.md">这里</a>
-
 ------
 
 
@@ -31,6 +29,5 @@ typora-copy-images-to: ./img
 
 ## 许可证
 
-- 仅<a href="Notes/Notes.md">笔记</a>(不包含其中摘自教材的图片)采取`MIT`协议
-- 其余材料按**原作品**版权信息
+- 按**原作品**版权信息
 
