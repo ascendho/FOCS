@@ -12,7 +12,7 @@ typora-copy-images-to: ./img
 
 - <a href="Solutions">Solutions</a>: Solutions for odd-numbered review questions and problems
 
-- <a href="Textbook">Textbook</a>:English version textbook PDF
+- <a href="Textbook">Textbook</a>: English version textbook PDF
 
 ------
 
