@@ -6,28 +6,29 @@ typora-copy-images-to: ./img
 
 
 
-## 如何使用
+## Repository layout
 
-- <a href="Quizzes/">Quizzes</a>文件夹存放了每章后的**交互式测验题**及答案
+- <a href="Quizzes/">Quizzes</a>：Interactive quizzes and solutions
 
-- <a href="Solutions">Solutions</a>文件夹存放了每章节后**奇数**编号的**复习题**和**练习题**的答案
+- <a href="Solutions">Solutions</a>: Solutions for odd-numbered review questions and problems
 
-- <a href="Textbook">Textbook</a>文件夹存放了**英文原版教材PDF**
+- <a href="Textbook">Textbook</a>:English version textbook PDF
 
 ------
 
 
 
-## 参考教材
+## Textbook
 
 |                     教材                     |                             图片                             |
 | :------------------------------------------: | :----------------------------------------------------------: |
-|                计算机科学导论                | ![image-20231227213319730](img/image-20231227213319730.png)  |
 | Foundations of Computer Science, 4th Edition | ![e146ff701029cef9378328f15aa28958e6ee8e1488fe082b057229d7e14685ec](img/e146ff701029cef9378328f15aa28958e6ee8e1488fe082b057229d7e14685ec.jpg) |
 
 ------
 
-## 许可证
 
-- 按**原作品**版权信息
+
+## LICENSE
+
+All resources are just for **learning**, any commercial activity is **not** allowed.
 
